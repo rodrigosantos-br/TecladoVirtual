@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Projects\\TecladoVirtual\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4F50921-96CA-4959-B6B6-D073CC18A95E}|TotemMuseuParaInteracaoDoPublico\\TecladoVirtual.csproj|c:\\projects\\tecladovirtual\\totemmuseuparainteracaodopublico\\tecladovirtual.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D4F50921-96CA-4959-B6B6-D073CC18A95E}|TotemMuseuParaInteracaoDoPublico\\TecladoVirtual.csproj|solutionrelative:totemmuseuparainteracaodopublico\\tecladovirtual.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D4F50921-96CA-4959-B6B6-D073CC18A95E}|TotemMuseuParaInteracaoDoPublico\\Totem.csproj|c:\\projects\\tecladovirtual\\totemmuseuparainteracaodopublico\\tecladovirtual.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4F50921-96CA-4959-B6B6-D073CC18A95E}|TotemMuseuParaInteracaoDoPublico\\Totem.csproj|solutionrelative:totemmuseuparainteracaodopublico\\tecladovirtual.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F50921-96CA-4959-B6B6-D073CC18A95E}|TotemMuseuParaInteracaoDoPublico\\Totem.csproj|c:\\projects\\tecladovirtual\\totemmuseuparainteracaodopublico\\totem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D4F50921-96CA-4959-B6B6-D073CC18A95E}|TotemMuseuParaInteracaoDoPublico\\Totem.csproj|solutionrelative:totemmuseuparainteracaodopublico\\totem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4F50921-96CA-4959-B6B6-D073CC18A95E}|TotemMuseuParaInteracaoDoPublico\\Totem.csproj|c:\\projects\\tecladovirtual\\totemmuseuparainteracaodopublico\\tecladovirtual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,12 +42,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "TecladoVirtual.Designer.cs",
               "DocumentMoniker": "C:\\Projects\\TecladoVirtual\\TotemMuseuParaInteracaoDoPublico\\TecladoVirtual.Designer.cs",
               "RelativeDocumentMoniker": "TotemMuseuParaInteracaoDoPublico\\TecladoVirtual.Designer.cs",
-              "ToolTip": "C:\\Projects\\TecladoVirtual\\TotemMuseuParaInteracaoDoPublico\\TecladoVirtual.Designer.cs",
-              "RelativeToolTip": "TotemMuseuParaInteracaoDoPublico\\TecladoVirtual.Designer.cs",
+              "ToolTip": "C:\\Projects\\TecladoVirtual\\TotemMuseuParaInteracaoDoPublico\\TecladoVirtual.Designer.cs*",
+              "RelativeToolTip": "TotemMuseuParaInteracaoDoPublico\\TecladoVirtual.Designer.cs*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-14T02:11:43.188Z",
@@ -55,12 +55,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TecladoVirtual.csproj",
-              "DocumentMoniker": "C:\\Projects\\TecladoVirtual\\TotemMuseuParaInteracaoDoPublico\\TecladoVirtual.csproj",
-              "RelativeDocumentMoniker": "TotemMuseuParaInteracaoDoPublico\\TecladoVirtual.csproj",
-              "ToolTip": "C:\\Projects\\TecladoVirtual\\TotemMuseuParaInteracaoDoPublico\\TecladoVirtual.csproj",
-              "RelativeToolTip": "TotemMuseuParaInteracaoDoPublico\\TecladoVirtual.csproj",
+              "DocumentIndex": 1,
+              "Title": "Totem",
+              "DocumentMoniker": "C:\\Projects\\TecladoVirtual\\TotemMuseuParaInteracaoDoPublico\\Totem.csproj",
+              "RelativeDocumentMoniker": "TotemMuseuParaInteracaoDoPublico\\Totem.csproj",
+              "ToolTip": "C:\\Projects\\TecladoVirtual\\TotemMuseuParaInteracaoDoPublico\\Totem.csproj",
+              "RelativeToolTip": "TotemMuseuParaInteracaoDoPublico\\Totem.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-09-14T02:11:37.418Z",
